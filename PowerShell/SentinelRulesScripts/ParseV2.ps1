@@ -1,3 +1,5 @@
+#.\Sentinel-RulesV2.ps1 -InputPath "C:\Users\NoahBournes\Documents\TT-Sentinel" -OutputDirectory "C:\Users\NoahBournes\Git\Analytics-Rules" -TenantName "TarbhTech"
+
 # Script: Parse-SentinelRulesV2.ps1
 # Enhanced version with support for multiple JSON files and automatic folder organization
 
